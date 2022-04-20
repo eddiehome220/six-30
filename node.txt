@@ -1,4 +1,3 @@
 #eddiehome
-trojan://afd99ae8-e3a4-3865-9666-f0fe9996950a@shcm.hnyhgl.com:30001/?peer=api.floatcloud.live#%E9%A6%99%E6%B8%AF2
-ssr://c2guc2hjdWRkbnMueHl6OjExNDIyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP3JlbWFya3M9NUxpSzVwYXc1WXFnNVoyaCZwcm90b3BhcmFtPU1UTTJORGc2TldobGEwSnlNM1I0WWtzJm9iZnNwYXJhbT1OalUwTkRVeE16WTBPQzV0YVdOeWIzTnZablF1WTI5dA
-ssr://cXVvN2NoaWUubm9kZWluZm8uaWN1OjMyMTE6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXLz9yZW1hcmtzPVRHRnlaMlVnNXBhdzVZcWc1WjJoTVEmcHJvdG9wYXJhbT1NakkyTVRVM09rOWpZVTE0ZFEmb2Jmc3BhcmFtPVpXSTRaalF5TWpZeE5UY3VkM2QzTG1kdmRpNW9hdw
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hiZ3AuaG55aGdsLmNvbToyMDAwNg?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1&obfsParam=api.floatcloud.live&path=/sgp-1&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2R0dS5obnloZ2wuY29tOjIwMDA4?remarks=%F0%9F%87%B8%F0%9F%87%AC%20%20%E6%96%B0%E5%8A%A0%E5%9D%A12&obfsParam=api.floatcloud.live&path=/sgp-1&obfs=websocket&tls=1&alterId=0
