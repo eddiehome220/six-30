@@ -1,4 +1,2 @@
 #eddiehome
-trojan://b03ef3ba-dc0b-4f69-aeea-76d337e46f99@iplcsg1.bitznet.cloud:32006/?peer=cert.bitbyte.one&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://b03ef3ba-dc0b-4f69-aeea-76d337e46f99@iplctw1.bitznet.cloud:32003/?peer=cert.bitbyte.one&tfo=1#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE
-vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAZ3p0Yy5ianl4cndsa2ouY29tOjIwMDA4?remarks=%F0%9F%87%B8%F0%9F%87%AC%20%20%E6%96%B0%E5%8A%A0%E5%9D%A1&obfsParam=api.floatcloud.live&path=/sgp-1&obfs=websocket&tls=1&alterId=0
+ssr://Z3Vhbmd6aG91ZGRucy54eXo6MzUyNDc6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8_cmVtYXJrcz01NzZPNVp1OUlERXgmcHJvdG9wYXJhbT1Namt3TXprNk5HMVJibUpzU2pVNFQzTk5OVWxxUkEmb2Jmc3BhcmFtPU9XUTFPV0V5T1RBek9TNXRhV055YjNOdlpuUXVZMjl0
